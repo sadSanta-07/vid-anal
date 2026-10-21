@@ -6,3 +6,6 @@ outputs/*
 *.pt
 !data/uploads/.gitkeep
 !outputs/.gitkeep
+outputs_*/
+*.mp4
+!docs/**/*.mp4

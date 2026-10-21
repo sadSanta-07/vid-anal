@@ -6,3 +6,5 @@ pillow
 opencv-python
 scenedetect
 ultralytics
+lap
+imageio-ffmpeg
